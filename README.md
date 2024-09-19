@@ -59,8 +59,8 @@ The team received data including customer information, historical usage, pricing
 ### 📊 Data Visualizations:
 Upload visualizations for Task 2 [here](#).
 
-![result_1](https://github.com/YourUsername/RepoName/blob/main/Images/Task2_Visualization1.png)
-![result_2](https://github.com/YourUsername/RepoName/blob/main/Images/Task2_Visualization1.png)
+![result_1](https://github.com/MrMaxMind/BCG---Data-Science-Job-Simulation/blob/main/Task%202/Result_1.png)
+![result_2](https://github.com/MrMaxMind/BCG---Data-Science-Job-Simulation/blob/main/Task%202/Result_2.png)
 
 ### 💡 Insights:
 - **Price Sensitivity:** Initial findings suggest a correlation between price changes and customer churn.
@@ -103,8 +103,8 @@ Prepare an abstract slide for the client, presenting key findings, model perform
 ### 📊 Results Visualizations:
 Upload result visualizations for Task 4 [here](#).
 
-![Result_3](https://github.com/YourUsername/RepoName/blob/main/Images/Task4_Results.png)
-![Result_4](https://github.com/YourUsername/RepoName/blob/main/Images/Task2_Visualization1.png)
+![Result_3](https://github.com/MrMaxMind/BCG---Data-Science-Job-Simulation/blob/main/Task%204/Result_3.png)
+![Result_4](https://github.com/MrMaxMind/BCG---Data-Science-Job-Simulation/blob/main/Task%204/Result_4.png)
 ---
 
 ## 🚀 Key Takeaways:
